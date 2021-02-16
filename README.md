@@ -1,2 +1,3 @@
 # go-tutorial
-Personal repo to learn GoLang
+
+Personal repo to learn GoLang :)
